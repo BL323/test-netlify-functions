@@ -1,0 +1,22 @@
+{
+  "name": "test-netlify-functions",
+  "version": "0.0.1",
+  "description": "Playing around with serveless functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BLourence/test-netlify-functions.git"
+  },
+  "author": "Ben.Lourence",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BLourence/test-netlify-functions/issues"
+  },
+  "homepage": "https://github.com/BLourence/test-netlify-functions#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
